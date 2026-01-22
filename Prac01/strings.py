@@ -1,5 +1,5 @@
 #1
-print("hello kbtu!")
+print("hello kbtu! ")
 #2
 s = "awesome"
 print(s[3:])
