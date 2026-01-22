@@ -1,5 +1,10 @@
 #1
-print("hello kbtu! ")
+print("hello world")
 #2
-s = "awesome"
-print(s[3:])
+print("hello kbtu")
+#3
+print("hi")
+#4
+print("Welcome")
+#5
+print("Good morning")
