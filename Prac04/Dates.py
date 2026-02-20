@@ -1,6 +1,6 @@
 import datetime
-x = datetime.datetime.now()
-print(x)
+X = datetime.datetime.now()
+print(X)
 #1
 import datetime
 current_time = datetime.datetime.now()
